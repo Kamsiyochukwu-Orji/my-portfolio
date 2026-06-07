@@ -20,7 +20,7 @@ npm run build
 npm run preview
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open [https://my-portfolio-eight-gilt-11.vercel.app/](https://my-portfolio-eight-gilt-11.vercel.app/) in your browser.
 
 ---
 
@@ -52,14 +52,14 @@ kamy-portfolio/
 
 ## 📄 Sections
 
-| Section | Component | Description |
-|---|---|---|
-| Hero | `Hero.tsx` | Animated landing with code card, stats, and CTA buttons |
-| About | `About.tsx` | Bio, image, quick facts, and availability status |
-| Skills | `Skills.tsx` | Progress bars, tech badge cloud, currently exploring |
-| Projects | `Projects.tsx` | Featured layout + grid for all 4 projects |
-| Contact | `Contact.tsx` | Contact info cards + message form |
-| Footer | `Footer.tsx` | Links and credits |
+| Section  | Component      | Description                                             |
+| -------- | -------------- | ------------------------------------------------------- |
+| Hero     | `Hero.tsx`     | Animated landing with code card, stats, and CTA buttons |
+| About    | `About.tsx`    | Bio, image, quick facts, and availability status        |
+| Skills   | `Skills.tsx`   | Progress bars, tech badge cloud, currently exploring    |
+| Projects | `Projects.tsx` | Featured layout + grid for all 4 projects               |
+| Contact  | `Contact.tsx`  | Contact info cards + message form                       |
+| Footer   | `Footer.tsx`   | Links and credits                                       |
 
 ---
 
@@ -88,14 +88,14 @@ kamy-portfolio/
 
 ## 🛠 Tech Stack
 
-| Tool | Purpose |
-|---|---|
-| React 18 | UI framework |
-| TypeScript | Type safety |
-| Tailwind CSS 3 | Utility-first styling |
-| Vite | Build tool & dev server |
-| PostCSS + Autoprefixer | CSS processing |
-| Google Fonts | Inter, Space Grotesk, Fira Code |
+| Tool                   | Purpose                         |
+| ---------------------- | ------------------------------- |
+| React 18               | UI framework                    |
+| TypeScript             | Type safety                     |
+| Tailwind CSS 3         | Utility-first styling           |
+| Vite                   | Build tool & dev server         |
+| PostCSS + Autoprefixer | CSS processing                  |
+| Google Fonts           | Inter, Space Grotesk, Fira Code |
 
 ---
 
